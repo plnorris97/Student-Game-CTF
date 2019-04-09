@@ -1,0 +1,15 @@
+.footer {
+    width: auto;
+    max-width: 680px;
+    padding: 0 60px;
+}
+
+#hint-text {
+    display: inline-block;
+    float: left; 
+}
+
+#hint-button {
+    display: inline-block;
+    float: right
+}
